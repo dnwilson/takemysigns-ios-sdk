@@ -1,3 +1,3 @@
-# TakeMySigns-SDK
+# TakeMySignsSDK
 
 A description of this package.
